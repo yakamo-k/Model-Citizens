@@ -3,3 +3,9 @@
 /upload.ssh
 /.venv-reader/
 __pycache__/
+
+# Website tooling is maintained locally and on the web server.
+/READER.md
+/tools/build_reader.py
+/tools/requirements-reader.txt
+/tools/reader-assets/
