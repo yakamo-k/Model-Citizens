@@ -1,3 +1,5 @@
 # Local upload helpers
 /upload.sh
 /upload.ssh
+/.venv-reader/
+__pycache__/

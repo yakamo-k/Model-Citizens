@@ -2,6 +2,8 @@
 
 An evolving, open project for developing a moral framework and governance system grounded in an honest examination of human behaviour.
 
+Read and explore the framework at **[unrelated.info](https://unrelated.info)**. Suggest edits and submit pull requests here on GitHub.
+
 **Shared direction:** What we do now should leave a better future for those who come after us.
 
 **Status:** Seed draft for criticism and development. These documents record starting commitments and questions, not established scientific conclusions or community consensus. The name does not imply that governance should depend on exemplary citizens.
