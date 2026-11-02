@@ -1,6 +1,6 @@
 # Contributing
 
-Read the [scientific standards](docs/SCIENTIFIC-STANDARDS.md) and the [human nature inquiry](docs/HUMAN-NATURE.md). Apply their scrutiny to your own reasoning and this project.
+Read the [scientific standards](docs/SCIENTIFIC-STANDARDS.md), the [human nature inquiry](docs/HUMAN-NATURE.md), and [Tribalism and Governance](docs/TRIBALISM.md). Apply their scrutiny to your own reasoning and this project.
 
 Start small and make the reasoning inspectable. A contribution can be a question, critique, design sketch, case study, simulation, or proposed experiment.
 
@@ -10,6 +10,7 @@ Start small and make the reasoning inspectable. A contribution can be a question
 2. State the problem and assumptions plainly.
 3. Describe the mechanism, not only the desired outcome.
 4. Include failure modes, capture risks, and affected groups.
+   For proposals involving identity, representation, or collective decision-making, explicitly assess insider privilege, outsider treatment, factional capture, and protections for dissenters and defectors.
 5. Invite criticism before treating an idea as settled.
 6. Record significant conclusions in `decisions/`.
 

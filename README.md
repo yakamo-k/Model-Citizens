@@ -10,7 +10,7 @@ Read and explore the framework at **[unrelated.info](https://unrelated.info)**. 
 
 An open repository for developing, testing, and refining ideas for healthier governance.
 
-This project starts from a simple premise: people are capable of care and cooperation, but power, fear, status, scarcity, group loyalty, and material incentives can also produce corruption and exploitation. A viable system must therefore cultivate our better tendencies while limiting the damage caused by our worse ones.
+This project starts from a simple premise: people are capable of care and cooperation, but power, fear, status, scarcity, group loyalty, and material incentives can also produce corruption and exploitation. Tribalism is treated as a cross-cutting governance problem: institutions must make room for belonging and solidarity without allowing group loyalty to override equal rights, evidence, accountability, or the humanity of outsiders. A viable system must therefore cultivate our better tendencies while limiting the damage caused by our worse ones.
 
 ## How this repository works
 
@@ -27,7 +27,8 @@ The aim is not to design a perfect society on paper. It is to build governance t
 ## Starting questions
 
 - How should power be distributed and prevented from accumulating?
-- How can institutions account for tribalism without turning difference into permanent conflict?
+- How can institutions account for tribalism without hardening identities into permanent conflict?
+- How can equal citizenship survive when group loyalty, fear, or perceived threat becomes politically powerful?
 - What makes exploitation structurally difficult rather than merely morally discouraged?
 - How should dissent, exit, minority protection, and institutional repair work?
 - How do we distinguish legitimate expertise from unaccountable authority?
@@ -37,6 +38,7 @@ The aim is not to design a perfect society on paper. It is to build governance t
 
 - [Shared goal](docs/SHARED-GOAL.md) — intergenerational stewardship and its limits.
 - [Human nature](docs/HUMAN-NATURE.md) — systematic investigation of destructive tendencies, including our own.
+- [Tribalism and governance](docs/TRIBALISM.md) — the central cross-cutting inquiry into group loyalty, exclusion, capture, and repair.
 - [Moral Commons](docs/MORAL-COMMONS.md) — candidate axioms, moral reasoning, and safeguards against capture.
 - [Scientific standards](docs/SCIENTIFIC-STANDARDS.md) — criticism, evidence, Bayesian reasoning, and emotions.
 - [Open questions](docs/OPEN-QUESTIONS.md) — important gaps in the seed system.

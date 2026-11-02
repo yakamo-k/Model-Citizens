@@ -18,9 +18,11 @@ No actor should control decision-making, resources, information, and enforcement
 
 Good intentions do not neutralize systems that reward domination or extraction. Proposals must examine the material and social incentives they create.
 
-### 3. Tribalism must be acknowledged
+### 3. Tribalism is a cross-cutting governance risk
 
-Group identity can create solidarity and care, but can also produce dehumanization and coalition capture. Institutions should enable affiliation while requiring cross-group accountability and protecting minorities.
+Group identity can create solidarity and care, but can also produce dehumanisation, unequal citizenship, scapegoating, and coalition capture. Institutions should enable affiliation while protecting equal standing, dissent, minorities, defectors, and people with mixed or changing identities. Every proposal should ask whether its categories and incentives reduce harmful exclusion or merely create a better-organised faction.
+
+See [Tribalism and Governance](TRIBALISM.md) for the project’s dedicated research framework.
 
 ### 4. Exploitation is often structural
 
@@ -43,3 +45,4 @@ Every institution should make its assumptions visible, measure its effects, acce
 - Who bears the cost when it fails?
 - How can affected people challenge, exit, or change it?
 - What evidence would justify keeping, revising, or abandoning it?
+- How might group loyalty, identity threat, or insider privilege distort its operation?

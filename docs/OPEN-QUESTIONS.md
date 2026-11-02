@@ -9,6 +9,7 @@ The seed defines a direction and a method. It does not yet provide a complete in
 - **Economics:** How should ownership, labour, essentials, dependency, and unequal bargaining power be addressed?
 - **Knowledge:** How can expertise inform decisions without acquiring unchecked authority?
 - **Conflict and repair:** How should disputes, accountability, restitution, and reintegration work?
+- **Tribalism and pluralism:** How can institutions protect belonging and collective self-determination without producing exclusion, scapegoating, factional capture, or unequal citizenship? What helps people maintain multiple, overlapping identities?
 - **Scale:** What belongs locally, and what requires coordination across communities?
 - **Ecology and technology:** How should uncertain, widespread, or irreversible harms be evaluated?
 - **Transition:** How can changes be tested without creating coercive emergency authority?
