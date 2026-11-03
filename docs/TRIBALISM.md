@@ -6,6 +6,8 @@ Beliefs often become tribal markers rather than open conclusions. They can divid
 
 Political movements, religious institutions, media systems, and other power structures can exploit these instincts by presenting disagreement as betrayal and outsiders as threats. People may excuse wrongdoing by their own group, reject evidence from outside it, and accept restrictions on the rights of others. Group loyalty can become more important than truth, fairness, or human dignity.
 
+Humans often acquire beliefs through belonging and social trust before they understand or articulate the principles those beliefs imply. Ideological reasoning is frequently a later explanation of group-based commitments. This pattern can appear in political parties, religions, nations, movements, workplaces, and online communities. Belonging and trust make social learning possible, but they become dangerous when loyalty matters more than evidence, consistency, equal moral concern, or the freedom to criticise one's own group.
+
 ## Tribalism as a governance risk
 
 A healthy governance system must recognise tribalism as a structural risk rather than treating it only as an individual moral failure. Institutions should prevent any group from capturing public authority, controlling information, or receiving special protection from accountability. Equal rights must apply regardless of political, ethnic, religious, cultural, national, or ideological identity.
